@@ -13,7 +13,7 @@ Main features of the app are:
 The concept's and libraries that are used for developing this app are:<br />
    &nbsp;&nbsp;&nbsp;&nbsp;   1] Picasso Library – Image Loading and processing Library For Android.<br />
    &nbsp;&nbsp;&nbsp;&nbsp;   2] Volley Library -  It is an HTTP library that makes networking for Android apps easier and faster.<br />
-   &nbsp;&nbsp;&nbsp;&nbsp;   3] Kotlin Coroutines - A new way of writing asynchronous(non-blocking) code for android apps that runs parallel to others.<br />
+   &nbsp;&nbsp;&nbsp;&nbsp;   3] Kotlin Coroutines - A way of writing asynchronous(non-blocking) code for android apps that runs in parallel.<br />
    &nbsp;&nbsp;&nbsp;&nbsp;   4] Data and file storage in Android.<br />
    &nbsp;&nbsp;&nbsp;&nbsp;   5] Working With API's, JSON parsing, Web scraping using Jsoup Library.
 
