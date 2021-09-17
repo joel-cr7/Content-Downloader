@@ -21,10 +21,10 @@ The concept's and libraries that are used for developing this app are:<br />
 ## UI
 <table>
   <tr>
-    <td><img src="app%20screenshots/Screenshot_20210917-233848_Content%20Downloader.jpg" width=600 height=470></td>
-    <td><img src="app%20screenshots/Screenshot_20210917-233854_Content%20Downloader.jpg" width=600 height=470></td>
-    <td><img src="app%20screenshots/Screenshot_20210917-233859_Content%20Downloader.jpg" width=600 height=470></td>
-    <td><img src="app%20screenshots/Screenshot_20210917-233908_Content%20Downloader.jpg" width=600 height=470></td>
+    <td><img src="app%20screenshots/Screenshot_20210917-233848_Content%20Downloader.jpg" width=600 height=400></td>
+    <td><img src="app%20screenshots/Screenshot_20210917-233854_Content%20Downloader.jpg" width=600 height=400></td>
+    <td><img src="app%20screenshots/Screenshot_20210917-233859_Content%20Downloader.jpg" width=600 height=400></td>
+    <td><img src="app%20screenshots/Screenshot_20210917-233908_Content%20Downloader.jpg" width=600 height=400></td>
   </tr>
  </table>
  
