@@ -32,6 +32,8 @@ class FacebookFragment : Fragment(R.layout.fragment_facebook) {
 
         binding = FragmentFacebookBinding.bind(view)
 
+        clipboardManager = requireActivity().getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+
         binding.FbPasteBtn.setOnClickListener {
             if (clipboardManager.hasPrimaryClip()) {
                 val clipData: ClipData? = clipboardManager.primaryClip

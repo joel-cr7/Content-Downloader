@@ -4,6 +4,7 @@ import android.app.DownloadManager
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
+import android.content.Context.CLIPBOARD_SERVICE
 import android.net.Uri
 import android.os.Bundle
 import android.os.Environment
@@ -12,6 +13,8 @@ import android.text.TextWatcher
 import android.util.Log
 import android.view.View
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat.getSystemService
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import com.android.volley.Request
@@ -38,6 +41,8 @@ class InstagamFragment : Fragment(R.layout.fragment_instagam) {
         super.onViewCreated(view, savedInstanceState)
 
         binding = FragmentInstagamBinding.bind(view)
+
+        clipboardManager = requireActivity().getSystemService(CLIPBOARD_SERVICE) as ClipboardManager
 
         binding.instagramUrl.addTextChangedListener(textWatcher)
 
