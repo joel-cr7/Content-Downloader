@@ -1,4 +1,4 @@
-# Content-Downloader (Preview) :-
+# Content-Downloader App (Preview) :-
 
 This is a Media Downloader App through which user can download unlimited photos, IGTV, Reels, videos, from Instagram and Facebok and save them in gallery and view them offline.
 This app is build using Kotlin programming language and the UI is build using XML.<br /><br />
