@@ -3,6 +3,7 @@
 This is a Media Downloader App through which user can download unlimited photos, IGTV, Reels, videos, from Instagram and Facebok and save them in gallery and view them offline.
 This app is build using Kotlin programming language and the UI is build using XML.<br /><br />
 
+Playstore Link: [Download Now](https://play.google.com/store/apps/details?id=com.downloader.quickvideosaverforinstagram)
 
 Main features of the app are:
 * Free and quick download of social media posts or videos.
